@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Documentation UniShape CDR 2025 
+description: Documentation de l'équipe UniShape pour la CDR 2025
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://unimakers.github.io/unishape-cdr2025-docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/unimakers/unishape-cdr2025-docs
