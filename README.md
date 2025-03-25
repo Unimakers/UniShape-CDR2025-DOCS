@@ -1,6 +1,11 @@
 # Documentation de l'équipe UniShape
 
-Comment créer une page ?
+Table de contenu:
+- [Documentation de l'équipe UniShape](#documentation-de-léquipe-unishape)
+  - [Comment créer une page ?](#comment-créer-une-page-)
+  - [Comment afficher un modèle 3D](#comment-afficher-un-modèle-3d)
+
+## Comment créer une page ?
 
 Aller dans le dossier correspondant au thème de la page, 
 
@@ -79,3 +84,10 @@ layout: default
 # La pince du robot
 La pince du robot, nécessaire pour attraper.....
 ```
+
+## Comment afficher un modèle 3D
+
+Dans votre code markdown rajoutez:
+```md
+{{%include model3D.html alt="Texte de description du modèle 3D" model="url / chemin du modèle 3D"%}}
+``` 
