@@ -91,3 +91,4 @@ Dans votre code markdown rajoutez:
 ```md
 {{%include model3D.html alt="Texte de description du modèle 3D" model="url / chemin du modèle 3D"%}}
 ``` 
+Le modèle 3D **doit** être en format GLTF / GLB.
